@@ -4,9 +4,9 @@
 
 **Growjobs** is a web application created and developed by me and [William Ribeiro](https://github.com/stilljag) for a challenge to [Growdev](https://growdev.com.br/), which aims to benefit both Growdev students looking for employment opportunities, and the partner companies that are looking for the best developers.
 
-<p>For partner companies: Login access to add new vacancies available by filling out a simple form with information such as: job title, type of hiring, workplace, technologies and knowledge needed for the position, etc. Possibility to delete and register new vacancies when necessary.</p>
+<p>For partner companies: Login access to add new job available by filling out a simple form with information such as: job title, type of hiring, workplace, technologies and knowledge needed for the position, etc. Possibility to delete and register new jobs when necessary.</p>
 
-<p>For growdevers: Login access to view the vacancies available on the Growjobs wall, with the possibility of filtering by companies and by technologies of interest.</p>
+<p>For growdevers: Login access to view all jobs available on the Growjobs wall, with the possibility of filtering by companies and by technologies of interest.</p>
 
 <p align="center">
   <img alt="Growjobs gif" title="Growjobs gif" src="./public/images/growjobs.gif" width="90%">
