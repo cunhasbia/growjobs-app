@@ -1,47 +1,50 @@
 <h1 align="center">
-    <img alt="Growjobs" title="Growjobs" src="./public/images/logo.png" width="25%">
+    <img alt="Growjobs" title="Growjobs Logo" src="./public/images/logo.png" width="20%">
 </h1>
 
-A aplicação Growjobs tem como objetivo beneficiar tanto os alunos da Growdev em busca de oportunidades no mercado de trabalho, quanto as empresas parceiras da instituição à procura dos melhores desenvolvedores.
+**Growjobs** is a web application created and developed by me and [William Ribeiro](https://github.com/stilljag) for a challenge to [Growdev](https://growdev.com.br/), which aims to benefit both Growdev students looking for employment opportunities, and the partner companies that are looking for the best developers.
 
-<p>Para as empresas: Login de acesso para disponibilizar novas vagas, preenchendo um formulário simples com informações como: cargo, tipo de contratação, local de trabalho, tecnologias e conhecimentos necessários para o cargo, entre outros. Possibilidade de excluir e cadastrar novas vagas quando necessário.</p>
+<p>For partner companies: Login access to add new vacancies available by filling out a simple form with information such as: job title, type of hiring, workplace, technologies and knowledge needed for the position, etc. Possibility to delete and register new vacancies when necessary.</p>
 
-<p>Para os growdevers: Login de acesso para visualização das vagas disponíveis no mural do Growjobs, com possibilidade de filtrar pelas empresas e por tecnologias que possui interesse.</p>
+<p>For growdevers: Login access to view the vacancies available on the Growjobs wall, with the possibility of filtering by companies and by technologies of interest.</p>
 
-## Tecnologias e ferramentas utilizadas:
+<p align="center">
+  <img alt="Growjobs gif" title="Growjobs gif" src="./public/images/growjobs.gif" width="90%">
+</p>
+<hr>
+
+## Technologies and tools used:
 
 - HTML<br>
 - CSS<br>
 - Bootstrap<br>
-- Sweet Alert<br>
 - Javascript ES6+<br>
 - Webpack<br>
 - Babel<br>
 - Yarn<br>
+- Sweet Alert<br>
 <hr>
 
-## Como rodar o projeto?
+## How to run the project?
 
-Antes de iniciar o projeto, instale o [Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/) em seu computador.
-É recomendado também utilizar o terminal do [VSCode](https://code.visualstudio.com/).
+Before start the project, install [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/) in your machine.
+Moreover, recommend use the [VSCode](https://code.visualstudio.com/) terminal.
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/cunhasbia/growjobs-app
 
-# Acesse a pasta em seu terminal
-$ cd /growjobs-app
+# Access the repository on your terminal.
+$ cd growjobs-app
 
-# Inicie o yarn
-$ yarn init -y
-
-# Instale as dependências
+# Install dependencies
 $ yarn install
 
-# Rode o projeto
+# Run
 $ yarn dev
 
-# Acesse http://localhost:8080 em seu navegador/browser.
+# Access http://localhost:8080 on your browser
 ```
 <hr>
-Feito com carinho por Bianca Cunha & William Ribeiro | Growdev 3ª Edição.
+
+Made with 🧡 by [Bianca Cunha](https://github.com/cunhasbia) & [William Ribeiro](https://github.com/stilljag) | Growdev 3ª Edição.
